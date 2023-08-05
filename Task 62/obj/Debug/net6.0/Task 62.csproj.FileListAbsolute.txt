@@ -1,0 +1,15 @@
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\bin\Debug\net6.0\Task 62.exe
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\bin\Debug\net6.0\Task 62.deps.json
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\bin\Debug\net6.0\Task 62.runtimeconfig.json
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\bin\Debug\net6.0\Task 62.dll
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\bin\Debug\net6.0\Task 62.pdb
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\Task 62.csproj.AssemblyReference.cache
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\Task 62.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\Task 62.AssemblyInfoInputs.cache
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\Task 62.AssemblyInfo.cs
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\Task 62.csproj.CoreCompileInputs.cache
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\Task 62.dll
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\refint\Task 62.dll
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\Task 62.pdb
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\Task 62.genruntimeconfig.cache
+D:\git-code\Урок 8 Двумерные массивы. Продолжение\Task 62\obj\Debug\net6.0\ref\Task 62.dll
